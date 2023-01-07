@@ -13,4 +13,9 @@ skfjdhfkgit sdhkjshf
 dfsagoo
 git fetch
 
+<<<<<<< HEAD
 cherry picking 
+=======
+
+cherry - picking
+>>>>>>> master
