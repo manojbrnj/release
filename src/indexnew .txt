@@ -3,3 +3,4 @@ res
 
 
 git fetch
+reset
