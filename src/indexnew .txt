@@ -1,2 +1,6 @@
 heregit
+<<<<<<< HEAD
 res
+=======
+reset
+>>>>>>> 70639d9 (safjds)
