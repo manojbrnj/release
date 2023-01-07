@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 first commmit here
 kjhasjhdkjsahdk
 fetch ko chekc kar rha hu
+=======
+first commmit heregit remote add origin https://github.com/manojbrnj/release.git
+second commit in temp1 branch
+>>>>>>> 474f315 (temp1 commit)
