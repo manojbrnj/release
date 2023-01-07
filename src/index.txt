@@ -2,4 +2,8 @@ first commmit heregit remote add origin https://github.com/manojbrnj/release.git
 second commit in temp1 branch
 third copy changes and paste in another branch.
 jfdskjhafkjsdhkjSS
-skfjdhfkgit 
+skfjdhfkgit sdhkjshf
+
+
+dfsagoo
+git fetch
