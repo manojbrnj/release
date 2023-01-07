@@ -13,6 +13,4 @@ skfjdhfkgit sdhkjshf
 dfsagoo
 git fetch
 
-
-cherry - picking
 cherry picking 
