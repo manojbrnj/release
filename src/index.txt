@@ -13,9 +13,5 @@ skfjdhfkgit sdhkjshf
 dfsagoo
 git fetch
 
-<<<<<<< Updated upstream
 
 cherry - picking
-=======
-cherry picking 
->>>>>>> Stashed changes
